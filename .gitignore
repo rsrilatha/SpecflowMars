@@ -1,4 +1,6 @@
-/obj/debug/net6.0
-/obj
-/.vs
+\obj\Debug\net6.0
+\obj
+\.vs
+\bin\Debug\net6.0
+
 
